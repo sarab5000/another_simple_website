@@ -1,4 +1,4 @@
-baseurl: "/another_simple_website/"
+baseurl: "/another_simple_website"
 
 collections:
     authors:
